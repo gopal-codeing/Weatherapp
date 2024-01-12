@@ -18,7 +18,7 @@ const Weatherapp = () => {
     });
 
     const todatafunction = () => {
-        const month = ['January', 'Fabuary', 'March', 'April', 'May', 'Jun', 'July', 'August', 'September', 'Octomber', 'November', 'December'];
+        const month = ['January', 'Fabruary', 'March', 'April', 'May', 'Jun', 'July', 'August', 'September', 'October', 'November', 'December'];
         const WeekDays = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday',];
      
         const currentdate = new Date();
